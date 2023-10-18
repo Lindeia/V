@@ -1,1 +1,1 @@
-# V
+# - Lista e Pilha são coleções que armazenam elementos. Uma lista é uma coleção de elementos ordenados, onde cada elemento é acessado por seu índice. Ela permite adicionar, remover e acessar elementos em qualquer posição. Uma pilha é uma coleção de elementos onde o último elemento adicionado é o primeiro a ser removido, seguindo o princípio "LIFO" (Last-In, First-Out), sendo possível apenas adicionar e remover elementos no topo da pilha.
