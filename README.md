@@ -28,3 +28,4 @@ Stack<string> pilhaExemplo = new Stack<int>();
 
         // Acessa o elemento do topo
         int elementoTopo = pilhaExemplo.Peek(); // Elemento: 2
+# Integrantes: Carolina Flavia Furtado, Luiz Felipe Ribeiro da Cruz, Ernane Geraldo Silva, Lindeia Karoline Lima do Carmo, João Ricardo Cirilo e Rayla Bernadino
